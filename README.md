@@ -1,2 +1,2 @@
 # Jokengen
-Um projeto de finalização do bloco I do bootcamp da Generation
+Um projeto de finalização do bloco um, do bootcamp da Generation
