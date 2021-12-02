@@ -1,2 +1,2 @@
 # CoinCollector
-Um projeto de finalização do Bloco I do bootcamp da Generation
+Um projeto de finalização do bloco I do bootcamp da Generation
